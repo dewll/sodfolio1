@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/dewll/myportfolio",
+  "homepage":"https://sodiq.github.com/dewll/myportfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
@@ -15,6 +15,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "deploy": "node --version",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
