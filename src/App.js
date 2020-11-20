@@ -12,7 +12,7 @@ function App() {
             <Navigation>
                 <Link to="/resume">Resume</Link>
                 <Link to="/aboutme">About Me</Link>
-                <Link to="/projects">projects</Link>
+                <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
@@ -28,7 +28,7 @@ function App() {
             <div className="page-content" />
             <Main/>
         </Content>
-    </Layout>
+    </Layout>2
 </div>
   );
 }
