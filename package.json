@@ -6,7 +6,7 @@
     "node": "14.15.0",
     "npm": "6.14.8"
   },
-  "homepage": "https://sodportfolio.herokuapp.com/",
+  "homepage": "https://dewll.github.io/sodfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
