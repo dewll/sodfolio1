@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://sodportfolio.herokuapp.com/",
+  "start_url": "https://dewll.github.io/sodfolio/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
